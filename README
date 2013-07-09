@@ -1,8 +1,5 @@
+The talk has been moved to a subdirectory of my "slides" repo.
+Sorry for the inconvenience.
 
-Slides for my EuroPython 2013 talk.
-Install dependencies from requirements.txt, then run `slides.py`.
-
-Content license (slides.yaml): CC-BY-SA 3.0,
-http://creativecommons.org/licenses/by-sa/3.0/
-
-Code license (slides.py): MIT
+git clone https://github.com/encukou/slides.git
+Web URL: https://github.com/encukou/slides/tree/master/2013-07-05-europython-cli
